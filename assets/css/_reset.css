@@ -1,19 +1,7 @@
-
-
-.thought1 {
-	font-weight: bold;
-	font-family: 'Passion One', cursive;
-}
-
-/**
- * CSS Pseudo-Classes Demo
- **
-
-/* Normal Element Rule */
-a{
-	font-size: 64px;
-}
-
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -28,15 +16,13 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 5;
-	padding: 5;
-	border: 05
+	margin: 0;
+	padding: 0;
+	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
 }
-
-
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
